@@ -1,3 +1,4 @@
+<div align="center">
 Aplicativo Autenticação - Kotlin com Firebase
 
 Este app foi desenvolvido com Kotlin, uma linguagem de programação moderna e prática,
@@ -18,3 +19,5 @@ Uma vez autenticado, o usuário é direcionado para a tela inicial (home) do sis
 Essa interface serve como uma confirmação visual de que o login foi realizado com sucesso. Embora básica, ela cumpre o papel de indicar que o usuário agora está conectado ao sistema e pronto para utilizar suas funcionalidades.
 
 ![Image](https://github.com/user-attachments/assets/afff84d3-e94f-447d-9d02-e034ce23d84c)
+</div>
+
