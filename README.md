@@ -1,5 +1,6 @@
 <div align="center">
-Aplicativo Autenticação - Kotlin com Firebase
+<span>Aplicativo Autenticação - Kotlin com Firebase</span>
+<hr>
 
 Este app foi desenvolvido com Kotlin, uma linguagem de programação moderna e prática,
 muito usada na criação de aplicativos Android por ser fácil de escrever e funcionar bem com Java.
